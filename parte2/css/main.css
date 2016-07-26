@@ -1,15 +1,10 @@
-* {
-	box-sizing: border-box;
-	margin: 0px;
-	padding: 0px;
-}
 
-div {
+
+.bloque {
 	height: 100px;
 	background: #FFFF00;
 	width: 15%;
-	margin: 10px;
-	padding: 10px;
+	margin-bottom: 10px;
 }
 .rojo {
 	background: #FF0000;
